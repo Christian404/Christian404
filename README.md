@@ -1,10 +1,14 @@
-# Gabriel Christian de Oliveira
+# Gabriel Christian de Oliveira | HACKER · Blue Team
 
 Analista de Segurança da Informação · Blue Team · SIEM/Wazuh · Redes e Infraestrutura
 
 Trabalho com implantação e sustentação de Wazuh, investigação de eventos, ajuste de detecções, gestão de acessos e documentação técnica. Minha trajetória também inclui Windows/Linux, Active Directory, Microsoft 365, redes e sustentação de ambientes AWS.
 
 Organizo aqui estudos e ferramentas defensivas com uma distinção clara entre experiência profissional, laboratório e material ainda não validado. O objetivo é permitir que outra pessoa entenda a hipótese, reproduza o exemplo e confira seus limites.
+
+[Português](README.md) · [English](README.en.md)
+
+[Portfólio visual e currículo](https://christian404.github.io)
 
 ## Portfólio
 
@@ -13,6 +17,8 @@ Organizo aqui estudos e ferramentas defensivas com uma distinção clara entre e
 | [Wazuh e Active Directory](https://github.com/Christian404/miniguia-siem-wazuh-ad) | Miniguia, análise offline de eventos 4625 e roteiro de investigação | Dados sintéticos, testes locais e limitações documentadas |
 | [Malware simulado em Python](https://github.com/Christian404/projeto-malware-simulado-python) | Estudo educacional de criptografia de arquivos de laboratório e entrada controlada de texto | Consultar no repositório o que foi implementado e quais evidências ainda faltam |
 | [Autenticação e Medusa](https://github.com/Christian404/projeto-medusa-kali-bruteforce) | Documentação de laboratório controlado, riscos de credenciais e mitigação | Comandos planejados e checklist não equivalem a testes executados |
+
+Projetos defensivos adicionais: [Integrity Monitor](https://github.com/Christian404/blue-team-integrity-monitor) · [Incident Playbooks](https://github.com/Christian404/blue-team-incident-playbooks). Ambos têm documentação em português e inglês.
 
 ## Trajetória
 
